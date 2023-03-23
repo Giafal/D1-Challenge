@@ -1,0 +1,35 @@
+body {
+  background-color: aliceblue;
+}
+
+h3 {
+  background-color: darkseagreen;
+}
+
+img {
+  height: 200px;
+  width: 180px;
+  border-radius: 50%;
+}
+
+#titolo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+table {
+  border: 1px solid black;
+}
+
+th {
+  border: 1px solid black;
+}
+td {
+  border: 1px solid black;
+}
+
+a {
+  text-decoration: none;
+}
